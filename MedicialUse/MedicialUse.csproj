@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="476893937_876517831149206_2584179017152482735_n.jpg" />
+    <None Remove="Hospital image.png" />
+    <None Remove="Hospital.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="476893937_876517831149206_2584179017152482735_n.jpg" />
+    <Resource Include="Hospital image.png" />
+    <Resource Include="Hospital.png" />
+  </ItemGroup>
+
+</Project>

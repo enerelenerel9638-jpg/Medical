@@ -1,0 +1,41 @@
+﻿<Window x:Class="MedicialUse.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MedicialUse"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="300" WindowState="Maximized">
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid Background="#77C3EC" >
+            <Image Source="/Hospital image.png" VerticalAlignment="Top" Width="200" Margin="0,20,0,0"/>
+
+            <StackPanel VerticalAlignment="Bottom" HorizontalAlignment="Center" Margin="0,0,0,30">
+                <Border Padding="10" CornerRadius="20" Background="#B2E1F2" Width="200" MouseDown="Home_MouseDown">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Foreground="Black" TextWrapping="Wrap" Text="Нүүр хуудас" Margin="5,0,0,0" FontSize="20" FontWeight="Bold"/>
+                    </StackPanel>
+                </Border>
+               
+            </StackPanel>
+           
+        </Grid>
+
+        <Frame x:Name="MainFrame" Grid.Column="1"/>
+        
+
+
+
+
+
+
+
+
+
+    </Grid>
+</Window>
