@@ -2,17 +2,25 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <ItemGroup>
-    <Compile Update="ChooseDate.xaml.cs">
+    <Compile Update="Components\Keyboard.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="Home.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="PhoneNumber.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Update="Service.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Components\Keyboard.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\ChooseDate.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\PhoneNumber.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Service.xaml">
+      <SubType>Designer</SubType>
+    </Page>
   </ItemGroup>
 </Project>

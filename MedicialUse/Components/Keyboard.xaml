@@ -1,0 +1,15 @@
+﻿<UserControl x:Class="MedicialUse.Components.Keyboard"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MedicialUse.Components"
+             mc:Ignorable="d">
+    <StackPanel>
+        <StackPanel x:Name="keyboardRow1" Orientation="Horizontal" HorizontalAlignment="Center" />
+        <StackPanel x:Name="keyboardRow2" Orientation="Horizontal" HorizontalAlignment="Center" />
+        <StackPanel x:Name="keyboardRow3" Orientation="Horizontal" HorizontalAlignment="Center" />
+        <StackPanel x:Name="keyboardRow4" Orientation="Horizontal" HorizontalAlignment="Center" />
+        <StackPanel x:Name="keyboardRow5" Orientation="Horizontal" HorizontalAlignment="Center" />
+    </StackPanel>
+</UserControl>

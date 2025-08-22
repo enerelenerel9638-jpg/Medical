@@ -9,15 +9,25 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="476893937_876517831149206_2584179017152482735_n.jpg" />
-    <None Remove="Hospital image.png" />
-    <None Remove="Hospital.png" />
+    <None Remove="Images\Hospital image.png" />
+    <None Remove="Images\Hospital.png" />
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="476893937_876517831149206_2584179017152482735_n.jpg" />
-    <Resource Include="Hospital image.png" />
-    <Resource Include="Hospital.png" />
+    <Resource Include="Images\Hospital image.png" />
+    <Resource Include="Images\Hospital.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Pages\ChooseDate.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\PhoneNumber.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Service.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
 
 </Project>

@@ -24,5 +24,9 @@ namespace MedicialUse
         {
             InitializeComponent();
         }
+
+        private void Keyboard_KeyPressed(string key)
+        { }
+        
     }
 }

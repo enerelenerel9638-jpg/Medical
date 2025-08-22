@@ -9,7 +9,7 @@
       Title="Home">
 
     <Grid>
-        <Image Source="/Hospital.png" Stretch="UniformToFill"/>
+        <Image Source="/Images/Hospital.png" Stretch="UniformToFill"/>
         <StackPanel VerticalAlignment="Bottom" HorizontalAlignment="Center" Margin="0,0,0,350">
             <Border Padding="10" CornerRadius="20" Background="#B2E1F2" Width="200" MouseDown="Border_MouseDown"
                     >
