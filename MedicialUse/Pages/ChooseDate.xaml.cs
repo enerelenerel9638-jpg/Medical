@@ -53,11 +53,17 @@ namespace MedicialUse
 
         private void Back_MouseDown(object sender, MouseButtonEventArgs e)
         {
-
+            NavigationService.GoBack();
         }
 
         private void Next_MouseDown(object sender, MouseButtonEventArgs e)
         {
+            if (string.IsNullOrEmpty(_date) || string.IsNullOrEmpty(_time))
+            {
+                MessageBox.Show("Таны оруулсан утга дутуу байна.");
+                return;
+            }
+
             MedicalData.MyViewModel.ChooseDates = _date;
             MedicalData.MyViewModel.Time = _time;
 

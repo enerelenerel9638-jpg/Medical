@@ -18,7 +18,7 @@ namespace MedicialUse
     /// <summary>
     /// Interaction logic for PhoneNumber.xaml
     /// </summary>
-    public partial class PhoneNumber : UserControl
+    public partial class PhoneNumber : Page
     {
         public PhoneNumber()
         {
@@ -26,7 +26,16 @@ namespace MedicialUse
         }
 
         private void Keyboard_KeyPressed(string key)
-        { }
+        {
+            if (key.Equals("BACKSPACE"))
+            {
+                //PhoneInPut.Text -= key;
+            }
+            else
+            {
+                PhoneInPut.Text += key;
+            }
+        }
         
     }
 }

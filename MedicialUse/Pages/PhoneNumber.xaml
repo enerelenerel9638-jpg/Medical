@@ -1,4 +1,4 @@
-﻿<UserControl x:Class="MedicialUse.PhoneNumber"
+﻿<Page x:Class="MedicialUse.PhoneNumber"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
@@ -9,13 +9,34 @@
              d:DesignHeight="150" d:DesignWidth="300">
     <Grid>
 
-        <StackPanel VerticalAlignment="Top">
-            <TextBlock Text=""/>
-            <Border BorderThickness="2" BorderBrush="Aqua" CornerRadius="10">
-                <TextBox HorizontalAlignment="Center"/>
+        <StackPanel VerticalAlignment="Top" Width="500">
+            <TextBlock Text="Та өөрийн E-Mongolia системд бүртгэлтэй утасны дугаараа оруулна уу"/>
+            <Border BorderThickness="2" BorderBrush="#18A6D9" CornerRadius="10">
+                <TextBox x:Name="PhoneInPut" HorizontalAlignment="Center"/>
             </Border>
+            <component:Keyboard Margin="0,20,0,0" KeyPressed="Keyboard_KeyPressed" KeyboardType="Digit"/>
         </StackPanel>
 
-        <component:Keyboard Margin="0,20,0,0" KeyPressed="Keyboard_KeyPressed" KeyboardType="Digit"/>
+
+        <StackPanel VerticalAlignment="Bottom" Orientation="Horizontal" Margin="0,0,0,20" HorizontalAlignment="Center" >
+            <Border Padding="10" CornerRadius="20" Background="#B2E1F2" Width="200" Margin="0,200,25,0"
+            >
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Foreground="Black" TextWrapping="Wrap" Text="Буцах" Margin="55,0,0,0" FontSize="20" FontWeight="Bold"/>
+
+
+                </StackPanel>
+            </Border>
+            <Border Padding="10" CornerRadius="20" Background="#B2E1F2" Width="200" Margin="0,200,0,0"
+>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Foreground="Black" TextWrapping="Wrap" Text="Үргэлжлүүлэх" Margin="15,0,0,0" FontSize="20" FontWeight="Bold"/>
+
+
+                </StackPanel>
+            </Border>
+
+
+        </StackPanel>
     </Grid>
-</UserControl>
+</Page>

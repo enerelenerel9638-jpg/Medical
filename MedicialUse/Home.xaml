@@ -14,7 +14,7 @@
             <Border Padding="10" CornerRadius="20" Background="#B2E1F2" Width="200" MouseDown="Border_MouseDown"
                     >
                 <StackPanel Orientation="Horizontal">
-                    <TextBlock Foreground="Black" TextWrapping="Wrap" Text="Цаг цахиалах" Margin="15,0,0,0" FontSize="20" FontWeight="Bold"/>
+                    <TextBlock Foreground="Black" TextWrapping="Wrap" Text="Цаг захиалах" Margin="15,0,0,0" FontSize="20" FontWeight="Bold"/>
                     
 
                 </StackPanel>

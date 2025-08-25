@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\Lesson\Medical\MedicialUse\obj\Debug\net8.0-windows\
+C:\Users\user\Documents\wpf projects\Medical\MedicialUse\obj\Debug\net8.0-windows\
 MedicialUse
 none
 false
-TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-D:\Lesson\Medical\MedicialUse\App.xaml
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+C:\Users\user\Documents\wpf projects\Medical\MedicialUse\App.xaml
 61950888483
 
 11-926787294
-198-556154604
+198-2136442823
 Components\Keyboard.xaml;Home.xaml;MainWindow.xaml;Pages\ChooseDate.xaml;Pages\PhoneNumber.xaml;Pages\Service.xaml;
 
 False

@@ -58,3 +58,35 @@ D:\Lesson\Medical\MedicialUse\obj\Debug\net8.0-windows\ref\MedicialUse.dll
 D:\Lesson\Medical\MedicialUse\obj\Debug\net8.0-windows\Components\Keyboard.g.cs
 D:\Lesson\Medical\MedicialUse\obj\Debug\net8.0-windows\Components\Keyboard.baml
 D:\Lesson\Medical\MedicialUse\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Documents\wpf projects\Medical\MedicialUse\bin\Debug\net8.0-windows\MedicialUse.exe
+C:\Users\user\Documents\wpf projects\Medical\MedicialUse\bin\Debug\net8.0-windows\MedicialUse.deps.json
+C:\Users\user\Documents\wpf projects\Medical\MedicialUse\bin\Debug\net8.0-windows\MedicialUse.runtimeconfig.json
+C:\Users\user\Documents\wpf projects\Medical\MedicialUse\bin\Debug\net8.0-windows\MedicialUse.dll
+C:\Users\user\Documents\wpf projects\Medical\MedicialUse\bin\Debug\net8.0-windows\MedicialUse.pdb
+C:\Users\user\Documents\wpf projects\Medical\MedicialUse\obj\Debug\net8.0-windows\Components\Keyboard.g.cs
+C:\Users\user\Documents\wpf projects\Medical\MedicialUse\obj\Debug\net8.0-windows\Home.g.cs
+C:\Users\user\Documents\wpf projects\Medical\MedicialUse\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\user\Documents\wpf projects\Medical\MedicialUse\obj\Debug\net8.0-windows\Pages\ChooseDate.g.cs
+C:\Users\user\Documents\wpf projects\Medical\MedicialUse\obj\Debug\net8.0-windows\Pages\PhoneNumber.g.cs
+C:\Users\user\Documents\wpf projects\Medical\MedicialUse\obj\Debug\net8.0-windows\Pages\Service.g.cs
+C:\Users\user\Documents\wpf projects\Medical\MedicialUse\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\user\Documents\wpf projects\Medical\MedicialUse\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Documents\wpf projects\Medical\MedicialUse\obj\Debug\net8.0-windows\MedicialUse_MarkupCompile.cache
+C:\Users\user\Documents\wpf projects\Medical\MedicialUse\obj\Debug\net8.0-windows\MedicialUse_MarkupCompile.lref
+C:\Users\user\Documents\wpf projects\Medical\MedicialUse\obj\Debug\net8.0-windows\Components\Keyboard.baml
+C:\Users\user\Documents\wpf projects\Medical\MedicialUse\obj\Debug\net8.0-windows\Home.baml
+C:\Users\user\Documents\wpf projects\Medical\MedicialUse\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\user\Documents\wpf projects\Medical\MedicialUse\obj\Debug\net8.0-windows\Pages\ChooseDate.baml
+C:\Users\user\Documents\wpf projects\Medical\MedicialUse\obj\Debug\net8.0-windows\Pages\PhoneNumber.baml
+C:\Users\user\Documents\wpf projects\Medical\MedicialUse\obj\Debug\net8.0-windows\Pages\Service.baml
+C:\Users\user\Documents\wpf projects\Medical\MedicialUse\obj\Debug\net8.0-windows\MedicialUse.g.resources
+C:\Users\user\Documents\wpf projects\Medical\MedicialUse\obj\Debug\net8.0-windows\MedicialUse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\wpf projects\Medical\MedicialUse\obj\Debug\net8.0-windows\MedicialUse.AssemblyInfoInputs.cache
+C:\Users\user\Documents\wpf projects\Medical\MedicialUse\obj\Debug\net8.0-windows\MedicialUse.AssemblyInfo.cs
+C:\Users\user\Documents\wpf projects\Medical\MedicialUse\obj\Debug\net8.0-windows\MedicialUse.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\wpf projects\Medical\MedicialUse\obj\Debug\net8.0-windows\MedicialUse.sourcelink.json
+C:\Users\user\Documents\wpf projects\Medical\MedicialUse\obj\Debug\net8.0-windows\MedicialUse.dll
+C:\Users\user\Documents\wpf projects\Medical\MedicialUse\obj\Debug\net8.0-windows\refint\MedicialUse.dll
+C:\Users\user\Documents\wpf projects\Medical\MedicialUse\obj\Debug\net8.0-windows\MedicialUse.pdb
+C:\Users\user\Documents\wpf projects\Medical\MedicialUse\obj\Debug\net8.0-windows\MedicialUse.genruntimeconfig.cache
+C:\Users\user\Documents\wpf projects\Medical\MedicialUse\obj\Debug\net8.0-windows\ref\MedicialUse.dll
