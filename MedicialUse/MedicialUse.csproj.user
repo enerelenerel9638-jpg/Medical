@@ -2,6 +2,9 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <ItemGroup>
+    <Compile Update="Components\Calendar.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Components\Keyboard.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -10,6 +13,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="Components\Calendar.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Components\Keyboard.xaml">
       <SubType>Designer</SubType>
     </Page>

@@ -90,3 +90,5 @@ C:\Users\user\Documents\wpf projects\Medical\MedicialUse\obj\Debug\net8.0-window
 C:\Users\user\Documents\wpf projects\Medical\MedicialUse\obj\Debug\net8.0-windows\MedicialUse.pdb
 C:\Users\user\Documents\wpf projects\Medical\MedicialUse\obj\Debug\net8.0-windows\MedicialUse.genruntimeconfig.cache
 C:\Users\user\Documents\wpf projects\Medical\MedicialUse\obj\Debug\net8.0-windows\ref\MedicialUse.dll
+D:\Lesson\Medical\MedicialUse\obj\Debug\net8.0-windows\Components\Calendar.g.cs
+D:\Lesson\Medical\MedicialUse\obj\Debug\net8.0-windows\Components\Calendar.baml
